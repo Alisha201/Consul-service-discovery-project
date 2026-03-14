@@ -71,3 +71,10 @@ Through this project, I gained hands-on understanding of:
 - The role of Consul as a service registry
 - How load balancers distribute traffic across multiple servers
 - How services can dynamically discover each other without hardcoded endpoints
+
+ ## Future Improvements
+
+Some possible improvements for this project include:
+
+- Automating infrastructure provisioning using Terraform
+- Automating configuration using Ansible
